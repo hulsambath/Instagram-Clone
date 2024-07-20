@@ -111,7 +111,6 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
     <key>CFBundleLocalizations</key>
 	<array>
 		<string>en</string>
-		<string>es</string>
 	</array>
 
     ...
@@ -125,7 +124,6 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
 ├── l10n
 │   ├── arb
 │   │   ├── app_en.arb
-│   │   └── app_es.arb
 ```
 
 2. Add the translated strings to each `.arb` file:
